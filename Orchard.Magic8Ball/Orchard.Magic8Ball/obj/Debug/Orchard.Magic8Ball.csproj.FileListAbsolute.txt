@@ -1,0 +1,6 @@
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\bin\Debug\Orchard.Magic8Ball.exe.config
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\bin\Debug\Orchard.Magic8Ball.exe
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\bin\Debug\Orchard.Magic8Ball.pdb
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\obj\Debug\Orchard.Magic8Ball.csprojResolveAssemblyReference.cache
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\obj\Debug\Orchard.Magic8Ball.exe
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.Magic8Ball\Orchard.Magic8Ball\obj\Debug\Orchard.Magic8Ball.pdb
