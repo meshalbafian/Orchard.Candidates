@@ -1,0 +1,6 @@
+c:\users\eshal\documents\visual studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\bin\Debug\Orchard.SnapCracklePop.exe.config
+C:\Users\eshal\Documents\Visual Studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\bin\Debug\Orchard.SnapCracklePop.exe
+C:\Users\eshal\Documents\Visual Studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\bin\Debug\Orchard.SnapCracklePop.pdb
+C:\Users\eshal\Documents\Visual Studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\obj\Debug\Orchard.SnapCracklePop.csprojResolveAssemblyReference.cache
+C:\Users\eshal\Documents\Visual Studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\obj\Debug\Orchard.SnapCracklePop.exe
+C:\Users\eshal\Documents\Visual Studio 2015\Projects\Orchard.SnapCracklePop\Orchard.SnapCracklePop\obj\Debug\Orchard.SnapCracklePop.pdb
